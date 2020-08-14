@@ -1,0 +1,12 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/ewersoncastelo/Developer/flutter
+FLUTTER_APPLICATION_PATH=/Users/ewersoncastelo/Developer/www/Platform_Aware_Flutter
+FLUTTER_TARGET=/Users/ewersoncastelo/Developer/www/Platform_Aware_Flutter/lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+OTHER_LDFLAGS=$(inherited) -framework Flutter
+FLUTTER_FRAMEWORK_DIR=/Users/ewersoncastelo/Developer/flutter/bin/cache/artifacts/engine/ios
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
+TRACK_WIDGET_CREATION=true
+DART_DEFINES=flutter.inspector.structuredErrors=true
