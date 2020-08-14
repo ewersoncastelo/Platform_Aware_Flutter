@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_platform_widgets/flutter_platform_widgets.dart';
+import 'package:flutter_platformapp/components/FancyButton.dart';
 import 'package:flutter_platformapp/screens/screen1.dart';
 import 'package:flutter_platformapp/screens/screen2.dart';
 import 'package:flutter_platformapp/screens/screen3.dart';
@@ -59,13 +60,9 @@ class _AppState extends State<App> {
       ),
       material: (context, platform) {
         return MaterialScaffoldData(
-          floatingActionButton: FloatingActionButton(
-            onPressed: () {
-              print("Button Tapped");
-            },
-            tooltip: 'Screen 5',
-            child: Icon(Icons.add),
-          ),
+          floatingActionButton: FancyButton(onPressed: () {
+            print("object");
+          }),
         );
       },
       body: getPage(_tabIndex),
