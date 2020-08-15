@@ -19,6 +19,7 @@
 # VS Code which you may wish to be included in version control, so this line
 # is commented out by default.
 #.vscode/
+.dart_tool
 
 # Flutter/Dart/Pub related
 **/doc/api/
@@ -29,6 +30,8 @@
 .pub-cache/
 .pub/
 /build/
+/test/
+pubspec.lock
 
 # Web related
 lib/generated_plugin_registrant.dart
