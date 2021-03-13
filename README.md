@@ -3,15 +3,15 @@
 </h1>
 
 <p align="left">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ewersoncastelo/Platform_Aware_Flutter.svg">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ewersoncastelo/Platform_Aware_Flutter.svg">
-  <a href="https://www.codacy.com/manual/ewersoncastelo/Platform_Aware_Flutter?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ewersoncastelo/Platform_Aware_Flutter&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/5b820f81af4545279cbfe587545c0643"/></a>
-<a href="https://github.com/ewersoncastelo/Platform_Aware_Flutter/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/ewersoncastelo/Platform_Aware_Flutter.svg">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ewersoncastelo/Multiplatform_Flutter.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ewersoncastelo/Multiplatform_Flutter.svg">
+  <a href="https://www.codacy.com/manual/ewersoncastelo/Multiplatform_Flutter?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ewersoncastelo/Multiplatform_Flutter&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/5b820f81af4545279cbfe587545c0643"/></a>
+<a href="https://github.com/ewersoncastelo/Multiplatform_Flutter/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/ewersoncastelo/Multiplatform_Flutter.svg">
   </a>
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/ewersoncastelo/Platform_Aware_Flutter.svg">
-  <a href="https://github.com/ewersoncastelo/Platform_Aware_Flutter/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ewersoncastelo/Platform_Aware_Flutter.svg">
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/ewersoncastelo/Multiplatform_Flutter.svg">
+  <a href="https://github.com/ewersoncastelo/Multiplatform_Flutter/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ewersoncastelo/Multiplatform_Flutter.svg">
   </a>
 </p>
 
@@ -42,7 +42,7 @@ When I started with flutter I was a little apprehensive because I am an iOS user
 
 ## Preview
 
-![](Platform_Aware_Flutter.gif)
+![](Multiplatform_Flutter.gif)
 
 ## Features
 
@@ -62,10 +62,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Flut
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/ewersoncastelo/Platform_Aware_Flutter
+$ git clone https://github.com/ewersoncastelo/Multiplatform_Flutter
 
 # Go into the repository
-$ cd Platform_Aware_Flutter
+$ cd Multiplatform_Flutter
 
 # List devices available
 $ flutter devices
@@ -75,7 +75,7 @@ $ flutter run -d [nameDevice]
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/ewersoncastelo/Platform_Aware_Flutter/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/ewersoncastelo/Multiplatform_Flutter/blob/master/LICENSE) for more information.
 
 ---
 
